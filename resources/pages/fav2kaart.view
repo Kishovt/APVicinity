@@ -1,0 +1,37 @@
+<svg viewport-fill="#CF103B">
+
+    <image class="klik" x="0" y="0" width="336" height="336" href="mapv2.png" pointer-events="none"  
+/>
+   
+
+
+<use href="#button" fill="#CF103B" x="250" y="30" width="15%">
+    <image class="klik" x="0" y="0" width="20" height="25" href="return.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+
+
+    <use href="#list" fill="#CF103B" x="0" y="270" width="100%">
+    <set href="handle8" attributeName="id" to="list" />
+</use>
+            <text fill="white" x="168" y="305" width="100%"  font-size="26" font-family="System-Regular" text-anchor="middle" text-length="50" text-buffer="Spoor Noord"/>
+
+
+</svg>
+<!--
+<svg viewport-fill="#000000">
+    <image id="map" x="0" y="0" width="336" height="336" />
+    <use href="#list" fill="#CF103B" x="0" y="270" width="100%">
+    <set href="handle8" attributeName="id" to="list" />
+
+    </use>
+            <text fill="white" x="168" y="305" width="100%"  font-size="18" font-family="System-Regular" text-anchor="middle" text-length="50" text-buffer="Damplein"/>
+
+      <text id="location" fill="white" x="50%" y="300" width="300" font-size="36" opacity="0" font-family="System-Regular" text-anchor="middle" text-length="20" text-buffer="loading" />
+<use href="#button" fill="#CF103B" x="250" y="30" width="15%">
+    <image class="klik" x="0" y="0" width="20" height="25" href="return.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+
+</svg>
+-->

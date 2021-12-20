@@ -1,0 +1,18 @@
+#basket{
+    fill: orangered;
+}
+.doorklik {
+    pointer-events: none;
+    z-index: 30;
+
+}
+.bask1 {
+    pointer-events: none;
+   
+}
+
+.bask2 {
+    pointer-events: visible;
+
+}
+

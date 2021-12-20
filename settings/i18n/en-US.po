@@ -1,0 +1,2 @@
+msgid "favorieten"
+msgstr "FAVOURITES"

@@ -1,0 +1,15 @@
+<svg viewport-fill="#000000">
+    <image id="map" x="0" y="0" width="336" height="336" />
+    <use href="#list" fill="#CF103B" x="0" y="270" width="100%">
+    <set href="handle8" attributeName="id" to="list" />
+
+    </use>
+            <text fill="white" x="168" y="300" width="100%"  font-size="24" font-family="System-Regular" text-anchor="middle" text-length="50" text-buffer="1 Badminton Noord"/>
+           
+      <text id="location" fill="white" x="50%" y="305" width="300" font-size="36" opacity="0" font-family="System-Regular" text-anchor="middle" text-length="20" text-buffer="loading" />
+<use href="#profilebutton" fill="#CF103B" x="250" y="30" width="15%">
+    <image class="door" x="0" y="0" width="30" height="30" href="person.png" />
+    <set href="handle1" attributeName="id" to="profile-button" />
+    </use>
+
+</svg>

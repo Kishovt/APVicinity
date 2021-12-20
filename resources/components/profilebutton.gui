@@ -1,0 +1,6 @@
+<defs>
+  <symbol id="profilebutton" height="70">
+    <text id="text" fill="white" x="50%" y="63%" font-size="32" font-weight="bold" font-family="Raiju-Bold" text-anchor="middle" text-buffer="" />
+    <rect id="handle1" fill="red" x="-5" y="-10" width="80%" height="80%" opacity="0"  pointer-events="visible"/>
+  </symbol>
+</defs>

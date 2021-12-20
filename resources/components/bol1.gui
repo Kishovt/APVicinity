@@ -1,0 +1,5 @@
+<defs>
+  <symbol id="bol1" height="70">
+  <rect id="handlebol1" fill="green" x="5" y="5" width="110%" height="155%" opacity="0" pointer-events="visible"/>
+  </symbol>
+</defs>

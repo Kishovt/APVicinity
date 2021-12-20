@@ -1,0 +1,55 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+
+
+    <link rel="stylesheet" href="pages/index.css" />
+    <link rel="stylesheet" href="pages/slider.css" />
+    <link rel="stylesheet" href="pages/menu.css" />
+    <link rel="stylesheet" href="pages/favorieten.css" />
+    <link rel="stylesheet" href="pages/basketkaart.css" />
+    <link rel="stylesheet" href="pages/fav1kaart.css" />
+    <link rel="stylesheet" href="pages/fav2kaart.css" />
+
+    <link rel="import" href="/mnt/sysassets/system_widget.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/baseview_widget.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/scrollview_widget.defs" />
+ 
+
+
+    <link rel="stylesheet" href="components/button.css" />
+        <link rel="stylesheet" href="components/button1.css" />
+
+    <link rel="stylesheet" href="components/profilebutton.css" />
+    <link rel="stylesheet" href="components/favoriet.css" />
+    <link rel="stylesheet" href="components/overons.css" />
+        <link rel="stylesheet" href="components/bol1.css" />
+        <link rel="stylesheet" href="components/bol2.css" />
+      <link rel="stylesheet" href="components/handlebasket1.css" />
+
+
+
+    <link rel="import" href="/mnt/sysassets/system_widget.defs" />
+
+    <link rel="import" href="components/button.gui" />
+        <link rel="import" href="components/button1.gui" />
+
+    <link rel="import" href="components/profilebutton.gui" />
+      <link rel="import" href="components/favoriet.gui" />
+      <link rel="import" href="components/overons.gui" />
+      <link rel="import" href="components/overtext.gui" />
+      <link rel="import" href="components/favoriet.gui" />
+      <link rel="import" href="components/bol1.gui" />
+      <link rel="import" href="components/bol2.gui" />
+      <link rel="import" href="components/bol3.gui" />
+      <link rel="import" href="components/slider.gui" />
+      <link rel="import" href="components/handlebasket1.gui" />
+            <link rel="import" href="components/listbasket.gui" />
+
+
+
+
+
+
+  </defs>
+</svg>

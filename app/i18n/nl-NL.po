@@ -1,0 +1,20 @@
+msgid "favorieten"
+msgstr "FAVORIETEN"
+
+msgid "overons"
+msgstr "OVER ONS"
+
+msgid "metvicinity"
+msgstr "Met Vicinity willen we de"
+
+msgid "bewoners"
+msgstr "bewoners van Antwerpen"
+
+msgid "opeen"
+msgstr "op een eenvoudige manier"
+
+msgid "dedichtbijzijnde"
+msgstr "de dichtstbijzijnde"
+
+msgid "sportlocaties"
+msgstr "sportlocaties tonen."

@@ -1,0 +1,218 @@
+<svg viewport-fill="#CF103B">
+ 
+
+  <use href="#scrollview">
+  
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="basket.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+    </use>
+
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="voetbal.png" />
+    <set href="handle" attributeName="id" to="back-button1" />
+    </use>
+    </use>
+    
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="train.png" />
+    <set href="handle" attributeName="id" to="back-button3" />
+    </use>
+    </use>
+
+<use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="skate.png" />
+    <set href="handle" attributeName="id" to="back-button4" />
+    </use>
+    </use>
+
+<use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="badminton.png" />
+    <set href="handle" attributeName="id" to="back-button5" />
+    </use>
+    </use>
+    
+<use href="#profilebutton" fill="#CF103B" x="250" y="30" width="15%">
+    <image class="doorklik" x="0" y="0" width="30" height="30" href="person.png" />
+    <set href="handle1" attributeName="id" to="profile-button" />
+    </use>
+    </use>
+
+    
+</svg>
+
+ <!--
+<svg>
+
+  <use href="#scrollview">
+    <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="basket.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+  
+  
+    <use class="bask1" href="#button1" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="basket.png" />
+    <set href="handlee" attributeName="id" to="back-button1" />
+
+</use>
+  <use class="bask1" href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="basket.png" />
+
+    </use>
+
+
+<use class="bask2" href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="voetbal.png" />
+    </use>
+
+    <use  href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="skate.png" />
+
+    </use>
+    <use  href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="train.png" />
+
+    </use>
+    <use href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="badminton.png" />
+
+    </use>
+  </use>
+</svg>
+<use href="#profilebutton" fill="#CF103B" x="250" y="30" width="15%">
+    <image class="doorklik" x="0" y="0" width="30" height="30" href="person.png" />
+    <set href="handle1" attributeName="id" to="profile-button" />
+    </use>
+
+</svg>
+</svg>
+     -->
+   <!-->
+
+<svg>
+  <use href="#scrollview">
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="basket.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="voetbal.png" />
+        <set href="handle" attributeName="id" to="back-button" />
+
+    </use>
+    </use>
+
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="skate.png" />
+        <set href="handle" attributeName="id" to="back-button" />
+
+    </use>
+    </use>
+
+<use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="train.png" />
+        <set href="handle" attributeName="id" to="back-button" />
+
+    </use>
+    </use>
+
+    <use href="#scrollview-item" height="336">
+      <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="badminton.png" />
+        <set href="handle" attributeName="id" to="back-button" />
+
+    </use>
+    </use>
+
+
+</svg></svg>
+-->
+
+<!--
+<svg>
+
+  <use href="#scrollview">
+    <use class="bask1" href="#button" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="basket.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+  
+  
+
+    <use class="bask1" href="#button1" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="basket.png" />
+    <set href="handlee" attributeName="id" to="back-button1" />
+
+</use>
+  <use class="bask1" href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+      <image x="0" y="0" width="336" height="336" href="basket.png" />
+
+    </use>
+
+
+
+
+
+
+
+<use class="bask2" href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="voetbal.png" />
+    </use>
+
+    <use  href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="skate.png" />
+
+    </use>
+    <use  href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="train.png" />
+
+    </use>
+    <use href="#scrollview-item" height="336">
+      <rect width="100%" height="100%"/>
+    <image x="0" y="0" width="336" height="336" href="badminton.png" />
+
+    </use>
+  </use>
+</svg>
+<use href="#profilebutton" fill="#CF103B" x="250" y="30" width="15%">
+    <image class="doorklik" x="0" y="0" width="30" height="30" href="person.png" />
+    <set href="handle1" attributeName="id" to="profile-button" />
+    </use>
+
+</svg>
+-->

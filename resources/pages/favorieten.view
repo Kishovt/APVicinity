@@ -1,0 +1,24 @@
+<svg viewport-fill="#CF103B">
+    
+    <use href="#button" fill="#CF103B" x="30" y="30" width="15%">
+    <image class="click" x="20" y="20" width="20" height="25" href="return.png" />
+    <set href="handle" attributeName="id" to="back-button" />
+    </use>
+
+<use href="#bol1" fill="#CF103B" x="50" y="80" width="30%">
+    <image class="click" x="0" y="0" width="120" height="120" href="sport1.png" />
+    <set href="handlebol1" attributeName="id" to="bol1-button" />
+    </use>
+    <use href="#bol2" fill="#CF103B" x="70" y="80" width="30%">
+    <image class="click" x="100" y="0" width="120" height="120" href="sport2.png" />
+    <set href="handlebol2" attributeName="id" to="bol2-button" />
+    </use>
+    <use href="#bol3" fill="#CF103B" x="50" y="100" width="30%">
+    <image class="click" x="0" y="100" width="120" height="120" href="extra.png" />
+    <set href="handlebol3" attributeName="id" to="bol3-button" />
+    </use>
+    <use href="#bol3" fill="#CF103B" x="170" y="100" width="30%">
+    <image class="click" x="0" y="100" width="120" height="120" href="extra.png" />
+    <set href="handlebol3" attributeName="id" to="bol3-button" />
+    </use>
+</svg>

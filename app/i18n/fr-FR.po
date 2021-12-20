@@ -1,0 +1,20 @@
+msgid "favorieten"
+msgstr "FAVORIS"
+
+msgid "overons"
+msgstr "NOS SERVICES"
+
+msgid "metvicinity"
+msgstr "Avec Vicinity nous voulons"
+
+msgid "bewoners"
+msgstr "montrer aux habitants"
+
+msgid "opeen"
+msgstr " d'Anvers d'une manière"
+
+msgid "dedichtbijzijnde"
+msgstr "simple les lieux de sport"
+
+msgid "sportlocaties"
+msgstr "les plus proches."

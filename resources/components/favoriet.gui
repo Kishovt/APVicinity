@@ -1,0 +1,6 @@
+<defs>
+  <symbol id="favoriet" height="70">
+    <text id="text" fill="white" x="50%" y="63%" font-size="38" font-weight="bold" font-family="Raiju-Bold" text-anchor="middle" text-buffer="_favorieten" />
+    <rect id="handle2" fill="none" x="0" y="0" width="100%" height="100%" opacity="0" pointer-events="visible"/>
+  </symbol>
+</defs>
